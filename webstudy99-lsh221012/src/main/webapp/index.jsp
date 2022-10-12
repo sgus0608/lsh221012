@@ -14,9 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-
 index 임상현 아이유 박볌
-
 </div>
 </body>
 </html>
