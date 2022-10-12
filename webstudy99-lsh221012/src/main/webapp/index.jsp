@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-index 임상현 아이유 박범
+index 임상현 아이유 박버
 </div>
 </body>
 </html>
